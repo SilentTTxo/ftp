@@ -1,4 +1,4 @@
-module github.com/jlaffaye/ftp
+module github.com/SilentTTxo/ftp
 
 go 1.13
 
